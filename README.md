@@ -75,7 +75,7 @@ The course is structured into several sections, each focusing on different aspec
 
 ## Projects and Exercises
 
-Throughout the course, several hands-on projects and exercises are provided to apply the concepts learned. Here are some of the projects I've worked on:
+Throughout the course, several hands-on projects and exercises are provided to apply the concepts learned. Projects are as follows:
 
 - Calculator Application
 - Todo List
