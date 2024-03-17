@@ -6,7 +6,7 @@
 
 # JavaScript Basics for Beginners
 
-This repository contains my personal notes, code snippets, and exercises from the [JavaScript Basics for Beginners](https://www.udemy.com/course/javascript-basics-for-beginners/) course on Udemy. The course is designed to introduce the fundamentals of JavaScript through a hands-on approach, covering everything from basic concepts to more advanced topics.
+This repo contains notes, code snippets, and exercises from the [JavaScript Basics for Beginners](https://www.udemy.com/course/javascript-basics-for-beginners/) course on. The course is designed to introduce the fundamentals of JavaScript through a hands-on approach, covering everything from basic concepts to more advanced topics.
 
 ## Course Overview
 
