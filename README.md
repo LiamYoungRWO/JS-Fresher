@@ -88,7 +88,7 @@ Throughout all of this, several hands-on projects apply the concepts. Projects a
 
 ## Acknowledgments
 
-I swiped this layout and the exercizes from the "JavaScript Basics for Beginners" course. (https://www.udemy.com/course/javascript-basics-for-beginners), Mosh Hamadini does a great job of going through it all in a much better and more thurough manner... so guy get it off Udemy on a sale day and support it if the abridged version looks solid.
+I swiped this layout and the exercizes from the "JavaScript Basics for Beginners" course. (https://www.udemy.com/course/javascript-basics-for-beginners), Mosh Hamadini does a great job of going through it all in a much better and more thurough manner than I will... so go get it off Udemy on a sale day or otherwise, and support it if the abridged version looks solid.
 
 ---
 
