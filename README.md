@@ -4,13 +4,13 @@
 ## Quick Run Through Repo for JavaScript
 
 
-# JavaScript Basics for Beginners
+# JavaScript Basics Frosher and Forgetter Fresher
 
-This repo contains notes, code snippets, and exercises from the [JavaScript Basics for Beginners](https://www.udemy.com/course/javascript-basics-for-beginners/) course on. The course is designed to introduce the fundamentals of JavaScript through a hands-on approach, covering everything from basic concepts to more advanced topics.
+This repo contains notes, code snippets, and quick freshercises designed to reinforce fundamentals of JavaScript with a hands-on approach, covering basic concepts to more advanced topics.
 
-## Course Overview
+## Overview
 
-The course is structured into several sections, each focusing on different aspects of JavaScript. Below is an overview of what each section covers, along with my personal notes and highlights.
+The repo is structured into several sections, each focusing on different aspects of JavaScript. Below is an overview of what each section covers, along with notes and highlights.
 
 ### Section 1: Getting Started
 
@@ -75,7 +75,7 @@ The course is structured into several sections, each focusing on different aspec
 
 ## Projects and Exercises
 
-Throughout the course, several hands-on projects and exercises are provided to apply the concepts learned. Projects are as follows:
+Throughout all of this, several hands-on projects apply the concepts. Projects are as follows:
 
 - Calculator Application
 - Todo List
@@ -88,8 +88,8 @@ Throughout the course, several hands-on projects and exercises are provided to a
 
 ## Acknowledgments
 
-A big thank you to the course instructor and the community for providing valuable insights and support throughout this learning journey.
+I swiped this layout and the exercizes from the "JavaScript Basics for Beginners" course. (https://www.udemy.com/course/javascript-basics-for-beginners), Mosh Hamadini does a great job of going through it all in a much better and more thurough manner... so guy get it off Udemy on a sale day and support it if the abridged version looks solid.
 
 ---
 
-This README is a personal documentation of my learning experience through the "JavaScript Basics for Beginners" course. It is intended for private use and educational purposes only.
+This README is a personal documentation of a summation of JScript and it is intended for private use and educational purposes only.
